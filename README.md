@@ -10,7 +10,7 @@
 
 👀 &nbsp; I’m interested in  **Software Engineering** \
 🌱 &nbsp; I’m currently learning **new things** \
-⚡ &nbsp; Fun fact **...** \
+⚡ &nbsp; Fun fact **... 🤷** \
 📫 &nbsp; You can shoot me an email! I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://) for more details about me. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I'm open to feedback and suggestions!
