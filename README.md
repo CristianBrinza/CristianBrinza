@@ -1,7 +1,7 @@
 <h1 align='center'> Hello there, I'm Cristi :wave:</h1>
-<h4 align="center">(@BrinzaCristian)</h4>
+<h4 align="center">(@CristianBrinza)</h4>
 <h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
-                    Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a></h3>
+                   and Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a></h3>
 <p align=center>                           
   <img align=center src="https://komarev.com/ghpvc/?username=BrinzaCristian&label=Profile%20views&color=b40e0e&style=flat" alt="Profile" />
 </p>
@@ -23,8 +23,6 @@
     
                2060 Moldova Republic of, Chisinau
 
-        git profile https://github.com/BrinzaCristian/BrinzaCristian
-        git repository https://github.com/BrinzaCristian/practica2022
         
    
 <h3 align="left">Connect with me:</h3>
@@ -79,9 +77,9 @@
 
   
   <p align="center">
- <img width="32%" src="https://github-readme-stats.vercel.app/api?username=brinzacristian&show_icons=true&theme=dark&locale=en&hide_border=true" alt="brinzacristian" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=brinzacristian&theme=dark&hide_border=true" alt="brinzacristian" />
- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinzacristian&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="brinzacristian" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api?username=cristianbrinza&show_icons=true&theme=dark&locale=en&hide_border=true" alt="cristianbrinza" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianbrinza&theme=dark&hide_border=true" alt="cristianbrinza" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbrinza&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="cristianbrinza" />
 </p>
   
  
