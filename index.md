@@ -66,10 +66,10 @@
 <img src="https://img.shields.io/badge/Photoshop-05122A.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Illustrator-05122A.svg?&style=for-the-badge&logo=adobe-adobe-illustrator&logoColor=white" height="25"/>
 <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25"/>
-<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
-<img src=https://img.shields.io/badge/Raspberry%20Pi-A22846.?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white height="25"/>
-<img src=https://img.shields.io/badge/VIM-%2311AB00.?style=for-the-badge&logo=vim&logoColor=white" height="25"/>
-<img src=https://img.shields.io/badge/Microsoft_Office-D83B01&style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/>
+<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " height="25"/>
+<img src=https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="25"/>
+<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="25"/>
+<img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/>
 </p>
 
 
