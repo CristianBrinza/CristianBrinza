@@ -1,4 +1,4 @@
-<h1 align='center'> Hello there, I'm Cristi :wave:</h1>
+<h1 align='center'> Hello there, I'm Cristi 👋</h1>
 <h4 align="center">(@CristianBrinza)</h4>
 <h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
                    and Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a></h3>
