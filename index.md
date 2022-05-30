@@ -65,22 +65,15 @@
 <img src="https://img.shields.io/badge/InDesign-05122A.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Photoshop-05122A.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Illustrator-05122A.svg?&style=for-the-badge&logo=adobe-adobe-illustrator&logoColor=white" height="25"/>
-<img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >
-<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black >
-<img src=https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white>
-<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white >
-<img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white>
+<img src=https://img.shields.io/badge/json-5E5C5C.svg?&style=for-the-badge&logo=json&logoColor=white" height="25"/>
+<img src=https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" height="25"/>
+<img src=https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=Raspberry%20Pi&logoColor=white height="25"/>
+<img src=https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="25"/>
+<img src=https://img.shields.io/badge/Microsoft_Office-D83B01.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/>
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-  
-  <p align="center">
- <img width="32%" src="https://github-readme-stats.vercel.app/api?username=cristianbrinza&show_icons=true&theme=dark&locale=en&hide_border=true" alt="cristianbrinza" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianbrinza&theme=dark&hide_border=true" alt="cristianbrinza" />
- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbrinza&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="cristianbrinza" />
-</p>
   
  
   
@@ -93,5 +86,4 @@
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-</br></br></br>
 
