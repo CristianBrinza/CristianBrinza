@@ -1,7 +1,7 @@
 <h1 align='center'> Hello there, I'm Cristi :wave:</h1>
 <h4 align="center">(@CristianBrinza)</h4>
 <h3 align="center">Bachelor of Science in Software Engineering (English Taught Honors Program on Software Engineering) at <a href="https://utm.md/en/">UTM</a>
-                   and Programing and Program Analysis Student at <a href="https://ceiti.md/">CEITI</a></h3>
+                   and Programing and Program Analysis Licenced by <a href="https://ceiti.md/">CEITI</a></h3>
 <p align=center>                           
   <img align=center src="https://komarev.com/ghpvc/?username=CristianBrinza&label=Profile%20views&color=b40e0e&style=flat" alt="Profile" />
 </p>
